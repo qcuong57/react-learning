@@ -31,3 +31,30 @@ Chúng ta sẽ làm một ứng dụng Todo List có thể:
 ✔ Xóa công việc
 
 ✔ Lưu danh sách công việc vào localStorage (không mất khi reload trang)
+
+## **Tuần 3: Xử lý sự kiện và Props trong React**
+
+🎯 Mục tiêu tuần 3
+
+✅ Hiểu và sử dụng sự kiện (event handling) trong React.
+
+✅ Sử dụng props để truyền dữ liệu giữa các component.
+
+✅ Tạo một ứng dụng bộ đếm (Counter App) để thực hành sự kiện và props.
+
+✅ Tạo một ứng dụng Todo List nâng cao, tách component và truyền dữ liệu giữa cha & con.
+
+🚀 Bài tập: Xây dựng Todo List với localStorage nâng cao
+
+Chúng ta sẽ làm một ứng dụng Todo List có thể:
+
+✔ Hiển thị danh sách công việc (sử dụng map() để render danh sách).
+
+✔ Thêm công việc mới (sử dụng sự kiện và useState).
+
+✔ Xóa công việc (truyền sự kiện từ component con lên component cha bằng props).
+
+✔ Đánh dấu hoàn thành công việc (thay đổi trạng thái khi nhấn vào công việc).
+
+✔ Chỉnh sửa công việc (cho phép người dùng cập nhật nội dung công việc).
+
