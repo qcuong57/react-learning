@@ -1,6 +1,6 @@
-Learn React JS
+# **Learn React JS**
 
-🚀 Tuần 1: Làm quen với ReactJS - Cấu hình dự án và Hiểu cơ bản về React
+## **Tuần 1: Làm quen với ReactJS - Cấu hình dự án và Hiểu cơ bản về React**
 
 🎯 Mục tiêu tuần 1:
 
@@ -10,7 +10,7 @@ Learn React JS
 
 ✅ Viết ứng dụng ReactJS đơn giản (hiển thị "Hello World")
 
-🚀 Tuần 2: Làm quen với ReactJS - Cấu hình dự án và Hiểu cơ bản về React
+## **Tuần 2: Làm quen với ReactJS - Cấu hình dự án và Hiểu cơ bản về React**
 
 🎯 Mục tiêu tuần 2
 
