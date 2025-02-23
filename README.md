@@ -21,3 +21,13 @@ Learn React JS
 ✅ Xóa công việc khỏi danh sách.
 
 ✅ Sử dụng localStorage để lưu danh sách công việc.
+
+🚀 Bài tập: Xây dựng Todo List với localStorage
+
+Chúng ta sẽ làm một ứng dụng Todo List có thể:
+
+✔ Thêm công việc
+
+✔ Xóa công việc
+
+✔ Lưu danh sách công việc vào localStorage (không mất khi reload trang)
