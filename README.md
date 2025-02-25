@@ -106,6 +106,56 @@ Hiển thị số lượng công việc hiện có.
 
 - Khi tải lại trang, danh sách vẫn giữ nguyên.
 
+🎯 Mục tiêu tuần 4
+
+✅ Hiển thị danh sách công việc bằng .map().
+
+✅ Thêm, sửa, xóa công việc trong danh sách.
+
+✅ Hiểu về Controlled vs. Uncontrolled Components.
+
+✅ Sử dụng useRef để thao tác với DOM.
+
+🚀 Bài tập: Quản lý danh sách & Xử lý Form
+
+Chúng ta sẽ làm một ứng dụng Todo List có thể:
+
+✔ Hiển thị danh sách công việc
+
+## **Tuần 5: Điều Hướng trong React với React Router**
+
+🎯 Mục tiêu Tuần 6
+
+✅ Hiểu và cài đặt React Router để điều hướng giữa các trang.
+
+✅ Tạo các route cơ bản, route động (useParams).
+
+✅ Chuyển trang bằng useNavigate().
+
+✅ Hiểu về Nested Routes và Layout Component.
+
+✅ Hiển thị 404 Page Not Found khi truy cập trang không tồn tại.
+
+🚀 Bài tập: Xây dựng website có 3 trang (Home, About, Contact)
+
+Bạn sẽ tạo một ứng dụng có 3 trang:
+
+✔ Trang Chủ (Home) → Hiển thị danh sách bài viết.
+
+✔ Trang Giới thiệu (About) → Giới thiệu về ứng dụng.
+
+✔ Trang Liên hệ (Contact) → Form liên hệ.
+
+Ngoài ra, bạn sẽ thêm:
+
+- Trang chi tiết bài viết (/post/:id) → Hiển thị nội dung bài viết dựa vào ID.
+
+- Chuyển trang bằng useNavigate().
+
+- 404 Page Not Found khi truy cập sai đường dẫn.
+
+
+
 
 
 
