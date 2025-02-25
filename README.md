@@ -58,3 +58,54 @@ Chúng ta sẽ làm một ứng dụng Todo List có thể:
 
 ✔ Chỉnh sửa công việc (cho phép người dùng cập nhật nội dung công việc).
 
+## **Tuần 4: Quản lý danh sách và Xử lý Form trong React**
+
+🎯 Mục tiêu tuần 4
+
+✅ Hiển thị danh sách công việc bằng .map().
+
+✅ Thêm, sửa, xóa công việc trong danh sách.
+
+✅ Hiểu về Controlled vs. Uncontrolled Components.
+
+✅ Sử dụng useRef để thao tác với DOM.
+
+🚀 Bài tập: Quản lý danh sách & Xử lý Form
+
+Chúng ta sẽ làm một ứng dụng Todo List có thể:
+
+✔ Hiển thị danh sách công việc
+
+Dùng .map() để hiển thị danh sách công việc.
+
+Hiển thị số lượng công việc hiện có.
+
+✔Thêm công việc mới
+
+- Người dùng nhập công việc vào ô input và nhấn Thêm.
+
+- Công việc mới sẽ được hiển thị trong danh sách.
+
+- Sau khi thêm, ô nhập liệu tự động làm sạch và focus lại.
+
+✔ Xóa công việc
+
+- Nhấn nút Xóa để xóa công việc khỏi danh sách.
+
+✔ Sửa công việc
+
+- Nhấn nút Sửa để chuyển công việc sang chế độ chỉnh sửa.
+
+- Nhập nội dung mới và nhấn Lưu để cập nhật.
+
+- Khi chỉnh sửa, ô input sẽ focus tự động.
+
+✔ Lưu dữ liệu vào localStorage
+
+- Khi người dùng thêm/xóa/sửa công việc, danh sách sẽ được lưu vào localStorage.
+
+- Khi tải lại trang, danh sách vẫn giữ nguyên.
+
+
+
+
