@@ -154,6 +154,22 @@ Ngoài ra, bạn sẽ thêm:
 
 - 404 Page Not Found khi truy cập sai đường dẫn.
 
+## **Tuần 6: Context API & Quản lý State nâng cao**
+
+🎯 Mục tiêu tuần 6
+
+✅ Hiểu Context API và cách sử dụng để chia sẻ state giữa các components.
+
+✅ Sử dụng useContext để truy xuất dữ liệu từ Context.
+
+✅ Hiểu và áp dụng useReducer để quản lý state phức tạp.
+
+✅ So sánh Context API với các phương pháp quản lý state khác như Redux.
+
+🚀 Bài tập: Xây dựng giỏ hàng đơn giản với Context API
+
+✔ Tạo một ứng dụng React cho phép thêm sản phẩm vào giỏ hàng và hiển thị tổng số sản phẩm.
+
 
 
 
