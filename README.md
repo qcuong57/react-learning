@@ -124,7 +124,7 @@ Chúng ta sẽ làm một ứng dụng Todo List có thể:
 
 ## **Tuần 5: Điều Hướng trong React với React Router**
 
-🎯 Mục tiêu Tuần 6
+🎯 Mục tiêu Tuần 5
 
 ✅ Hiểu và cài đặt React Router để điều hướng giữa các trang.
 
